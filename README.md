@@ -3,7 +3,9 @@
 - Automatic Irrigation System API
 - Technology Stack
 - Setup Instructions
+  
 Endpoints
+
 - Add a new plot of land
 - Get all plots
 - Get a specific plot
